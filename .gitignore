@@ -39,3 +39,5 @@ terraform.rc
 venv/*
 
 keypair*.pem
+
+providers.tf
