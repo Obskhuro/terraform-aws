@@ -41,3 +41,6 @@ venv/*
 keypair*.pem
 
 providers.tf
+.gitignore
+.terraform.lock.hcl
+
